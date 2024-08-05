@@ -2,7 +2,7 @@
 
 **`CP programmer`**
 
-I am a university student at the College of Information Technology and Computer Science. My goal is to become an IT specialist shortly. I am continuously eager to expand my knowledge in software development. I enjoy participating in volunteer work and competitions and always strive to do my best.
+
 
   
 ---
