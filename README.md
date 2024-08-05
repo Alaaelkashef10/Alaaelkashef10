@@ -27,9 +27,9 @@ I am a university student at the College of Information Technology and Computer 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaaelkashef10&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Alaaelkashef10&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
