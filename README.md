@@ -43,7 +43,7 @@ CS student focused on backend development using .NET and ASP.NET Core.<br>Intere
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
----
 [![](https://visitcount.itsvg.in/api?id=Alaaelkashef10&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
