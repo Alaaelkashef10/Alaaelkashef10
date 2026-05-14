@@ -2,6 +2,10 @@
 CS student focused on backend development using .NET and ASP.NET Core.<br>Interested in building clean RESTful APIs.
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Alaa%20ElKashef;.NET%20Developer;Backend%20%26%20Frontend%20Expert;Check%20out%20my%20popular%20repos;Follow%20to%20get%20more%20updates&font=Fira%20Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
+</p>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009994573140) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alaa-elkashef) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Alaaelkashef_10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaaelk943@gmail.com) 
 
